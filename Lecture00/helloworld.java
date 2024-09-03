@@ -3,3 +3,6 @@ public class helloworld{
     System.out.print("hello world");
    } 
 }
+// git add -A
+// git commit -m "batman"
+// git push
