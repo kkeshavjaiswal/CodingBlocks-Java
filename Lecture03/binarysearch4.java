@@ -8,7 +8,7 @@ public class binarysearch4 {
         while (low<=high){
             int mid=(low+high)/2;
             if (arr[mid]==target){
-                ans=mid;
+                ans=mid+1;
                 low=mid+1;
             }
             else if(arr[mid]>target){
@@ -32,7 +32,7 @@ public class binarysearch4 {
     public static void main(String[] args){
         int[] arr= {1,1,1,2,2,3,3,3,3,4};
         Arrays.sort(arr);
-        System.out.println(upperbound(arr,2));
+        System.out.println(upperbound(arr,1));
         display(arr);
     }
 }

@@ -47,12 +47,12 @@ public class arrays0 {
             System.out.println(k);
         }
 
-        Scanner scan= new Scanner(System.in);
-        int n;
-        n=scan.next();
-        System.out.println(n);
+        // Scanner scan= new Scanner(System.in);
+        // int n;
+        // n=scan.next();
+        // System.out.println(n);
 
-    }5
+    }
 
 
     
