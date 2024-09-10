@@ -1,4 +1,4 @@
-public class arrays {
+public class arrays0 {
     public static void main(String[] args){
         int a=10;
         int [ ] arr=new int[5];
@@ -52,6 +52,8 @@ public class arrays {
         n=scan.next();
         System.out.println(n);
 
-    }
+    }5
+
+
     
 }
