@@ -1,6 +1,6 @@
 package Lecture02;
 
-public class arrayfunction4 {
+public class arraysfunction4 {
     static void swapelements(int[] arr, int i, int j) {
         int temp=arr[i];
         arr[i]=arr[j];

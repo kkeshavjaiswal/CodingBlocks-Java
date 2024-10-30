@@ -1,6 +1,6 @@
 package Lecture02;
 
-public class arrayfunction1 {
+public class arraysfunction1 {
     static void findSum(int[] arr){
         int sum=0;
         for (int i: arr){

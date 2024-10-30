@@ -1,6 +1,6 @@
 package Lecture02;
 
-public class arrayfunction3 {
+public class arraysfunction3 {
 
     static void temprev(int[] arr){
         int[] temp= new int[arr.length];

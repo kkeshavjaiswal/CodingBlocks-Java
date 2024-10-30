@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class arrays0 {
     public static void main(String[] args){
         int a=10;
@@ -47,10 +48,10 @@ public class arrays0 {
             System.out.println(k);
         }
 
-        // Scanner scan= new Scanner(System.in);
-        // int n;
-        // n=scan.next();
-        // System.out.println(n);
+        Scanner scan= new Scanner(System.in);
+        String x;
+        x=scan.nextLine();
+        System.out.println(x);
 
     }
 
